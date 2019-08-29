@@ -5,8 +5,8 @@ class Database {
     private static $dbName = 'arena_fitness';
     private static $host = 'localhost';
     private static $dsn = 'mysql:host=localhost;dbname=arena_fitness';
-    private static $username = 'app';
-    private static $password = '1anDre9';
+    private static $username = 'root';
+    private static $password = '';
     private static $db;
 
     /*
